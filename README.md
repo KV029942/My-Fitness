@@ -25,3 +25,7 @@ How will this document helps you?
 - It helps you to stay focussed
 - Keeps track of status
 - It just keeps me interested. 
+
+How to make this repo interesting?
+- TBD
+- Suggestions and feedbacks are always welcome
