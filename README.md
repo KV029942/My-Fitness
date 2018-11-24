@@ -8,7 +8,7 @@ What: Weight Gain
 When: May 12 2019 
 
 How:
-  - Eat Health
+  - Eat Healthy
   - Workout
   - Rest
   - Yoga
